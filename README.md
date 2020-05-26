@@ -12,39 +12,39 @@ For each movie, the dataset includes information on aspects such as popularity, 
 
 **1. How is the film making industry evolving?**
 
-  **How much more movies people are consuming now compared to last few decades? (Growth Rate)**
+  *How much more movies people are consuming now compared to last few decades? (Growth Rate)*
   
-  **Is movie making a profitable business?**
+  *Is movie making a profitable business?*
   
-  **What are the some of the best and the not-so-good performing movies across different parameters through the years?**
-  
+  *What are the some of the best and the not-so-good performing movies across different parameters through the years?*
+ 
 **2. Does runtime hold any importance? What is the preferred runtime of viewers?**
 
-  **How has the average runtime of movies changed over the years?**
+  *How has the average runtime of movies changed over the years?*
   
-  **What is the Average Runtime of movies currently?**
+  *What is the Average Runtime of movies currently?*
   
-  **Is there any visible relationship between Revenue and Popularity with Runtime?**
+  *Is there any visible relationship between Revenue and Popularity with Runtime?*
   
-**3. What are The top 10 movies of the world based on different parameters?**
+**3. What are The top 10 movies of the world based on different parameters?*
 
 **4. Genres**
 
-  **What are the main movie genres and distribution of movies across genres?**
+  *What are the main movie genres and distribution of movies across genres?*
   
-  **How do different Genres perform across different parameters?**
+  *How do different Genres perform across different parameters?*
 
-**5. Who are the most successful movie directors and film stars?**
+**5. Who are the most successful movie directors and film stars?*
 
-  **Does having the most popular director or actor ensure financial success in the box office?**
-
-**6. Which are the biggest production companies that dominate the industry?**
-
-  **Number of movies churned by those production companies**
+  *Does having the most popular director or actor ensure financial success in the box office?*
   
-  **Budget spending, revenue generation and ROI of those companies**
+**6. Which are the biggest production companies that dominate the industry?*
+
+  *Number of movies churned by those production companies*
   
-  **How does Revenue depend on different parameters?**
+  *Budget spending, revenue generation and ROI of those companies*
+  
+  *How does Revenue depend on different parameters?**
 
 ## Getting Started
 
