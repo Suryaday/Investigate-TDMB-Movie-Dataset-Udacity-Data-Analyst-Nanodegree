@@ -26,7 +26,7 @@ For each movie, the dataset includes information on aspects such as popularity, 
   
   *Is there any visible relationship between Revenue and Popularity with Runtime?*
   
-**3. What are The top 10 movies of the world based on different parameters?*
+**3. What are The top 10 movies of the world based on different parameters?**
 
 **4. Genres**
 
@@ -34,17 +34,17 @@ For each movie, the dataset includes information on aspects such as popularity, 
   
   *How do different Genres perform across different parameters?*
 
-**5. Who are the most successful movie directors and film stars?*
+**5. Who are the most successful movie directors and film stars?**
 
   *Does having the most popular director or actor ensure financial success in the box office?*
   
-**6. Which are the biggest production companies that dominate the industry?*
+**6. Which are the biggest production companies that dominate the industry?**
 
   *Number of movies churned by those production companies*
   
   *Budget spending, revenue generation and ROI of those companies*
   
-  *How does Revenue depend on different parameters?**
+  *How does Revenue depend on different parameters?*
 
 ## Getting Started
 
