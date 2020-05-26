@@ -12,9 +12,9 @@ For each movie, the dataset includes information on aspects such as popularity, 
 
 1. How is the film making industry evolving?
 
-  How much more movies people are consuming now compared to last few decades? (Growth Rate)
-  Is movie making a profitable business?
-  What are the some of the best and the not-so-good performing movies across different parameters through the years?
+  *How much more movies people are consuming now compared to last few decades? (Growth Rate)
+  *Is movie making a profitable business?
+  *What are the some of the best and the not-so-good performing movies across different parameters through the years?
   
 2. Does runtime hold any importance? What is the preferred runtime of viewers?
 
